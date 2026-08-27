@@ -63,18 +63,11 @@
 
 ### 🌟 Highlight Projects
 
-* 🤖 **Roadbot AI** — Web Chatbot ช่วยประเมินความเสี่ยงอุบัติเหตุและวางแผนการเดินทางอย่างปลอดภัย (เชื่อมต่อ OpenAI API)
-* ⚡ **Roadbot AI (n8n)** — Discord Bot อัตโนมัติที่ทำงานร่วมกับระบบ Workflow Automation
+* 🚗 **Roadbot AI** — Web Chatbot ช่วยประเมินความเสี่ยงอุบัติเหตุและวางแผนการเดินทางอย่างปลอดภัย (เชื่อมต่อ OpenAI API)
+* 🤖 **Roadbot AI (n8n)** — Discord Bot อัตโนมัติที่ทำงานร่วมกับระบบ Workflow Automation
 * 📋 **Tasknest** — Web Application สำหรับบริหารจัดการงานและเพิ่มประสิทธิภาพการทำงานร่วมกันในทีม
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CryptozDev&show_icons=true&theme=tokyonight&hide_border=true" alt="Jarukit's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptozDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
-</div>
+* ⚡ **Slide Me** — Web Application สำหรับเรียกรถสไลด์เพื่อตอบโจทย์ปัญหาการค้นหาบริการรถสไลด์
+* 🚘 **RentalSelfdrive Project** — Website สำหรับบริการเช่ารถแบบ Self-Drive ที่ช่วยให้ผู้ใช้สามารถเลือก ดูรายละเอียด และจองรถได้อย่างสะดวกผ่านระบบออนไลน์ พร้อมจัดการข้อมูลการเช่ารถอย่างเป็นระบบ
 
 ---
 
