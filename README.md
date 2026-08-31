@@ -13,7 +13,7 @@
   นักศึกษาสาขาวิทยาการคอมพิวเตอร์และนวัตกรรมการพัฒนาซอฟต์แวร์ ที่หลงใหลในการสร้างสรรค์ Web Application ครบวงจร  
   มีประสบการณ์พัฒนาทั้ง **Frontend** และ **Backend** รวมถึงการประยุกต์ใช้ **AI (OpenAI API)** และ **Workflow Automation** เพื่อแก้ปัญหาที่ใช้งานได้จริง
 
-  [🌐 Portfolio](http://jarukit-portfolio-sigma.vercel.app/) • [✉️ Email Me](mailto:cryptozdev@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/jarukit-lobthaisong-015911431)
+  [🌐 Portfolio](https://jarukit.dev/) • [✉️ Email Me](mailto:cryptozdev@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/jarukit-lobthaisong-015911431)
 
 </div>
 
