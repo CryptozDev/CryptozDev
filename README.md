@@ -1,25 +1,27 @@
-# ⚡ Hi there, I'm Jarukit Lobthaisong 👋
-
 <div align="center">
 
-  ![Full-Stack Developer](https://img.shields.io/badge/Role-Full--Stack%20Developer-blue?style=for-the-badge&logo=codefactor)
-  ![Computer Science](https://img.shields.io/badge/Degree-Computer%20Science-orange?style=for-the-badge&logo=academic-pages)
-  ![Based In](https://img.shields.io/badge/Location-Bangkok%2C%20Thailand-red?style=for-the-badge&logo=googlemaps)
+  <h1>Hi there, I'm Jarukit Lobthaisong</h1>
 
-  ---
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%7C+Full-Stack+Developer+%7C+AI+%26+Automation+Enthusiast;Building+Modern+Web+Applications+with+React%2C+Node.js%2C+and+.NET" alt="Typing SVG" />
+  </p>
 
-  ### 🎓 Computer Science Student | Full-Stack Developer | AI & Automation Enthusiast
-
-  นักศึกษาสาขาวิทยาการคอมพิวเตอร์และนวัตกรรมการพัฒนาซอฟต์แวร์ ที่หลงใหลในการสร้างสรรค์ Web Application ครบวงจร  
-  มีประสบการณ์พัฒนาทั้ง **Frontend** และ **Backend** รวมถึงการประยุกต์ใช้ **AI (OpenAI API)** และ **Workflow Automation** เพื่อแก้ปัญหาที่ใช้งานได้จริง
-
-  [🌐 Portfolio](https://jarukit.dev/) • [✉️ Email Me](mailto:cryptozdev@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/jarukit-lobthaisong-015911431)
+  <p>
+    <a href="https://jarukit.dev/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="mailto:cryptozdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/jarukit-lobthaisong-015911431"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/CryptozDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### About Me
+
+<div align="center">
+  <img src="https://img2.pic.in.th/1787864373218.jpeg" alt="Jarukit Banner" width="100%" />
+</div>
 
 * 🎓 กำลังศึกษาระดับปริญญาตรี สาขาวิทยาการคอมพิวเตอร์และนวัตกรรมการพัฒนาซอฟต์แวร์
 * 💻 **Frontend Focus:** มีความเชี่ยวชาญในการสร้าง UI ที่ตอบสนองได้ดีด้วย React.js, Vite, Tailwind CSS และ JavaScript
@@ -30,7 +32,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend & Design** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -61,17 +63,54 @@
 
 ---
 
-### 🌟 Highlight Projects
+### Highlight Projects
 
-* 🚗 **Roadbot AI** — Web Chatbot ช่วยประเมินความเสี่ยงอุบัติเหตุและวางแผนการเดินทางอย่างปลอดภัย (เชื่อมต่อ OpenAI API)
-* 🤖 **Roadbot AI (n8n)** — Discord Bot อัตโนมัติที่ทำงานร่วมกับระบบ Workflow Automation
-* 📋 **Tasknest** — Web Application สำหรับบริหารจัดการงานและเพิ่มประสิทธิภาพการทำงานร่วมกันในทีม
-* ⚡ **Slide Me** — Web Application สำหรับเรียกรถสไลด์เพื่อตอบโจทย์ปัญหาการค้นหาบริการรถสไลด์
-* 🚘 **RentalSelfdrive Project** — Website สำหรับบริการเช่ารถแบบ Self-Drive ที่ช่วยให้ผู้ใช้สามารถเลือก ดูรายละเอียด และจองรถได้อย่างสะดวกผ่านระบบออนไลน์ พร้อมจัดการข้อมูลการเช่ารถอย่างเป็นระบบ
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Roadbot AI</h3>
+      <p>Web Chatbot ช่วยประเมินความเสี่ยงอุบัติเหตุและวางแผนการเดินทางอย่างปลอดภัย</p>
+      <p><strong>จุดเด่น:</strong> เชื่อมต่อ OpenAI API และออกแบบเพื่อใช้งานจริง</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Roadbot AI (n8n)</h3>
+      <p>Discord Bot อัตโนมัติที่ทำงานร่วมกับระบบ Workflow Automation</p>
+      <p><strong>จุดเด่น:</strong> ใช้ n8n เชื่อมการทำงานหลายระบบเข้าด้วยกัน</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Tasknest</h3>
+      <p>Web Application สำหรับบริหารจัดการงานและเพิ่มประสิทธิภาพการทำงานร่วมกันในทีม</p>
+      <p><strong>จุดเด่น:</strong> ออกแบบมาเพื่อช่วยให้ทีมทำงานได้เป็นระบบมากขึ้น</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Slide Me</h3>
+      <p>Web Application สำหรับเรียกรถสไลด์เพื่อตอบโจทย์ปัญหาการค้นหาบริการรถสไลด์</p>
+      <p><strong>จุดเด่น:</strong> ช่วยให้ผู้ใช้เข้าถึงบริการได้สะดวกและรวดเร็ว</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>RentalSelfdrive Project</h3>
+      <p>Website สำหรับบริการเช่ารถแบบ Self-Drive ที่ช่วยให้ผู้ใช้สามารถเลือก ดูรายละเอียด และจองรถได้อย่างสะดวกผ่านระบบออนไลน์ พร้อมจัดการข้อมูลการเช่ารถอย่างเป็นระบบ</p>
+      <p><strong>จุดเด่น:</strong> ระบบจองรถและจัดการข้อมูลครบวงจร</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More Coming Soon</h3>
+      <p>ยังคงพัฒนาโปรเจกต์ใหม่ ๆ ที่เกี่ยวกับ Web, AI และ Automation อย่างต่อเนื่อง</p>
+      <p><strong>สถานะ:</strong> In Progress</p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <div align="center">
 
