@@ -369,14 +369,3 @@
   </a>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img
- src="https://komarev.com/ghpvc/?username=CryptozDev&style=for-the-badge&color=00D9FF"
- alt="Profile Views"
-/>
-
-</div>
