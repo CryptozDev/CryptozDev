@@ -2,9 +2,12 @@
 
   <h1>Hi there, I'm Jarukit Lobthaisong</h1>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%7C+Full-Stack+Developer+%7C+AI+%26+Automation+Enthusiast;Building+Modern+Web+Applications+with+React%2C+Node.js%2C+and+.NET" alt="Typing SVG" />
-  </p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+Automation+Enthusiast"
+    alt="Typing SVG"
+  />
+</p>
 
   <p>
     <a href="https://jarukit.dev/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
