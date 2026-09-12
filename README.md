@@ -284,31 +284,31 @@
 <h3>🚀 More Projects Coming Soon</h3>
 
 <p>
-  <strong>Always Building & Learning</strong>
+  <strong>Data Science & Machine Learning Project</strong>
 </p>
 
 <p>
-  กำลังพัฒนาโปรเจกต์ใหม่ ๆ อย่างต่อเนื่อง
-  โดยมุ่งเน้นไปที่ Web Development, AI, Automation
-  และ Software Engineering
+  โปรเจกต์ถัดไปที่กำลังเตรียมพัฒนา มุ่งเน้นการสร้าง Machine Learning Model
+  วิเคราะห์ข้อมูลเชิงลึก พัฒนาแบบจำลองธุรกิจ
+  และนำเสนอผลลัพธ์ผ่าน Data Visualization
 </p>
 
-<p><strong>Currently Exploring</strong></p>
+<p><strong>Highlights</strong></p>
 
 <ul>
-  <li>🧠 AI & LLM Applications</li>
-  <li>⚡ Automation & AI Agents</li>
-  <li>🌐 Full-Stack Web Applications</li>
-  <li>☁️ Cloud & DevOps</li>
+  <li>🧠 Machine Learning Model</li>
+  <li>📊 Data Analysis</li>
+  <li>💼 Business Modeling</li>
+  <li>📈 Data Visualization</li>
 </ul>
 
-<p><strong>Focus</strong></p>
+<p><strong>Tech Stack</strong></p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20%26%20LLM-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full--Stack-00D9FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-FF6D5A?style=flat-square" />
-  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 <p>
