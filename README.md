@@ -10,18 +10,10 @@
   </p>
 
   <p>
-    <a href="https://jarukit.dev/">
-      <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-    <a href="mailto:cryptozdev@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/jarukit-lobthaisong-015911431">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/CryptozDev">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+    <a href="https://jarukit.dev/"><img src="https://img.shields.io/badge/Portfolio-jarukit.dev-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+    <a href="mailto:cryptozdev@gmail.com"><img src="https://img.shields.io/badge/Email-cryptozdev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/jarukit-lobthaisong-015911431"><img src="https://img.shields.io/badge/LinkedIn-Jarukit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://github.com/CryptozDev"><img src="https://img.shields.io/badge/GitHub-CryptozDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
 </div>
@@ -344,28 +336,9 @@
 
 <div align="center">
 
-  <a href="https://github.com/CryptozDev">
-    <img
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/jarukit-lobthaisong-015911431">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-
-  <a href="https://discord.com/users/cryptodev_">
-    <img
-      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-    />
-  </a>
-
-  <a href="https://www.facebook.com/Jarukitlths">
-    <img
-      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-    />
-  </a>
+  <a href="https://github.com/CryptozDev"><img src="https://img.shields.io/badge/GitHub-CryptozDev-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jarukit-lobthaisong-015911431"><img src="https://img.shields.io/badge/LinkedIn-Jarukit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://discord.com/users/cryptodev_"><img src="https://img.shields.io/badge/Discord-cryptodev_-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
+  <a href="https://www.facebook.com/Jarukitlths"><img src="https://img.shields.io/badge/Facebook-Jarukitlths-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 </div>
