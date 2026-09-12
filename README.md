@@ -339,6 +339,6 @@
   <a href="https://github.com/CryptozDev"><img src="https://img.shields.io/badge/GitHub-CryptozDev-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/jarukit-lobthaisong-015911431"><img src="https://img.shields.io/badge/LinkedIn-Jarukit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://discord.com/users/cryptodev_"><img src="https://img.shields.io/badge/Discord-cryptodev_-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
-  <a href="https://www.facebook.com/Jarukitlths"><img src="https://img.shields.io/badge/Facebook-Jarukitlths-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.facebook.com/Jarukitlths"><img src="https://img.shields.io/badge/Facebook-Jarukit-Lobthaisong-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 </div>
