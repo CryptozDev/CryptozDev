@@ -302,8 +302,14 @@
   <li>📈 Data Visualization</li>
 </ul>
 
+<p><strong>Tech Stack</strong></p>
+
 <p>
-  <strong>Status:</strong> 🟡 In Progress
+  <img src="https://img.shields.io/badge/Tech%20Stack-Still%20Deciding%20%F0%9F%A4%94-6B7280?style=flat-square" />
+</p>
+
+<p>
+  <strong>Status:</strong> ⚫ Starting to plan
 </p>
 
   </td>
