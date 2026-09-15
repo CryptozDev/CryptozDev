@@ -22,7 +22,7 @@
 
 <div align="center">
   <img
-    src="https://img2.pic.in.th/1787864373218.jpeg"
+    src="https://media.licdn.com/dms/image/v2/D4E16AQHVEYchtZxuEA/profile-displaybackgroundimage-shrink_350_1400/B4EaBFBVaiIoAU-/0/1787864373218?e=1790812800&v=beta&t=ExwVTZ2vHoqgWHvPBcGg_OsPBiYAPcQKOdz7OAgiBeM"
     alt="Jarukit Banner"
     width="100%"
   />
