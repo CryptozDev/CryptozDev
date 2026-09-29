@@ -352,9 +352,9 @@
 <br>
 
 <h2 align="center">✦ CryptozDev — Jarukit Lobthaisong ✦</h2>
+
 <h3 align="center">✦ My Domain Name : jarukit.dev ✦</h3>
 
-<br>
 
 <p align="center">
   This is the personal portfolio of <strong>Jarukit Lobthaisong</strong> (จารุกิตติ์ โลบไธสง),
