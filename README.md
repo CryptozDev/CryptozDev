@@ -287,35 +287,39 @@
 
   <td width="50%" valign="top">
 
-<h3>🚀 More Projects Coming Soon</h3>
+<h3>⚡ Smart Energy Assistant Chatbot</h3>
 
 <p>
-  <strong>Data Science & Machine Learning Project</strong>
+  <strong>ML-Powered Solar & Energy Advisor</strong>
 </p>
 
 <p>
-  โปรเจกต์ถัดไปที่กำลังเตรียมพัฒนา มุ่งเน้นการสร้าง Machine Learning Model
-  วิเคราะห์ข้อมูลเชิงลึก พัฒนาแบบจำลองธุรกิจ
-  และนำเสนอผลลัพธ์ผ่าน Data Visualization
+  Chatbot AI ที่ตอบคำถามเรื่องบ้านของผู้ใช้ 3 ข้อ — พฤติกรรมการใช้ไฟ,
+  ควรติดโซลาร์กี่ kW คืนทุนกี่ปี และราคาโซลาร์ในอนาคต
+  คำนวณจากข้อมูลจริงของประเทศไทย (NASA POWER, DEDE, กกพ./ERC, กฟน./กฟภ.)
 </p>
 
 <p><strong>Highlights</strong></p>
 
 <ul>
-  <li>🧠 Machine Learning Model</li>
-  <li>📊 Data Analysis</li>
-  <li>💼 Business Modeling</li>
-  <li>📈 Data Visualization</li>
+  <li>🤖 Chatbot AI + Intent Classification</li>
+  <li>☀️ Solar ROI Calculator (แดดจริงรายชั่วโมง + ราคาไฟจริง)</li>
+  <li>🧠 ML Models (LightGBM → ONNX)</li>
+  <li>📊 Interactive Dashboard + Anomaly Detection</li>
 </ul>
 
 <p><strong>Tech Stack</strong></p>
 
 <p>
-  <img src="https://img.shields.io/badge/Tech%20Stack-Still%20Deciding%20%F0%9F%A4%94-6B7280?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 <p>
-  <strong>Status:</strong> ⚫ Starting to plan
+  <strong>Status:</strong> 🟡 In Progress
 </p>
 
   </td>
