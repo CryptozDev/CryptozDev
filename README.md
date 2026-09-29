@@ -1,6 +1,12 @@
 <div align="center">
 
-  <h1>Hi there, I'm Jarukit Lobthaisong</h1>
+  <h1>Hi there, I'm Jarukit Lobthaisong 👋</h1>
+
+  <p>
+    <strong>Jarukit Lobthaisong (จารุกิตติ์ โลบไธสง)</strong> — Full-Stack Developer &amp; CS Student<br>
+    Portfolio: <a href="https://jarukit.dev/" title="Jarukit.dev — Portfolio of Jarukit Lobthaisong">Jarukit.dev</a>
+    &nbsp;|&nbsp; GitHub: <a href="https://github.com/CryptozDev">@CryptozDev</a>
+  </p>
 
   <p align="center">
     <img
@@ -338,3 +344,16 @@
   <a href="https://www.facebook.com/Jarukitlths"><img src="https://img.shields.io/badge/Facebook-Jarukit%20Lobthaisong-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 </div>
+
+<br>
+
+<h2 align="center">✦ Jarukit.dev — Jarukit Lobthaisong ✦</h2>
+
+<p align="center">
+  <strong>Jarukit.dev</strong> is the personal portfolio of <strong>Jarukit Lobthaisong</strong> (จารุกิตติ์ โลบไธสง),
+  also known as <strong>Jarukit Dev</strong> on GitHub as <a href="https://github.com/CryptozDev">@CryptozDev</a>.<br>
+  Jarukit is a Full-Stack Developer and Computer Science student from Thailand,
+  focused on <em>Web Development, AI Integration, and Automation</em>.<br>
+  🌐 Website: <a href="https://jarukit.dev/">https://jarukit.dev</a> &nbsp;·&nbsp;
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/jarukit-lobthaisong-015911431">Jarukit Lobthaisong</a>
+</p>
