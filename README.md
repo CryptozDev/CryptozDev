@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Jarukit Lobthaisong 👋</h1>
 
   <p>
-    <strong>Jarukit Lobthaisong (จารุกิตติ์ โลบไธสง)</strong> — Full-Stack Developer &amp; CS Student<br>
+    <strong>Jarukit Lobthaisong (จารุกิตติ์ โลบไธสง)</strong> — Full-Stack Developer<br>
     Portfolio: <a href="https://jarukit.dev/" title="Jarukit.dev — Portfolio of Jarukit Lobthaisong">Jarukit.dev</a>
     &nbsp;|&nbsp; GitHub: <a href="https://github.com/CryptozDev">@CryptozDev</a>
   </p>
