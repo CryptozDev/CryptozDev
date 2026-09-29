@@ -351,11 +351,12 @@
 
 <br>
 
-<h2 align="center">✦ Jarukit.dev — Jarukit Lobthaisong ✦</h2>
+<h2 align="center">✦ CryptozDev — Jarukit Lobthaisong ✦</h2>
+<h3 align="center">✦ My Domain Name : jarukit.dev ✦</h3>
 
 <p align="center">
   <strong>Jarukit.dev</strong> is the personal portfolio of <strong>Jarukit Lobthaisong</strong> (จารุกิตติ์ โลบไธสง),
-  also known as <strong>Jarukit Dev</strong> on GitHub as <a href="https://github.com/CryptozDev">@CryptozDev</a>.<br>
+  also known as <strong>CryptozDev</strong> on GitHub as <a href="https://github.com/CryptozDev">@CryptozDev</a>.<br>
   Jarukit is a Full-Stack Developer and Computer Science student from Thailand,
   focused on <em>Web Development, AI Integration, and Automation</em>.<br>
   🌐 Website: <a href="https://jarukit.dev/">https://jarukit.dev</a> &nbsp;·&nbsp;
