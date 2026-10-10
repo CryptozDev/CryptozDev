@@ -287,19 +287,19 @@
 
   <td width="50%" valign="top">
 
-<h3 align="center">⚡ Smart Energy Assistant</h3>
+<h3>⚡ Smart Energy Assistant</h3>
 
-<p align="center">
+<p>
   <strong>ML-Powered Home Energy & Solar Advisor</strong>
 </p>
 
-<p align="center">
+<p>
   แชทบอท AI ตอบคำถามเรื่องบ้านของคุณ 3 เรื่อง — พฤติกรรมการใช้ไฟ, ควรติดโซลาร์กี่ kW คืนทุนกี่ปี,
   และราคาโซลาร์ในอนาคต — คำนวณจาก<strong>ข้อมูลจริงของบ้านคุณ</strong> (หน่วยไฟจากบิล กฟน./กฟภ.)
   ร่วมกับ dataset จริงของประเทศไทย (NASA POWER, DEDE, กกพ./ERC)
 </p>
 
-<p align="center"><strong>Highlights</strong></p>
+<p><strong>Highlights</strong></p>
 
 <ul>
   <li>🤖 Chatbot AI + Intent Classification (ONNX — ตอบจากข้อมูลบ้านจริง ไม่เดาตอบ)</li>
@@ -310,9 +310,9 @@
   <li>🔐 Google Sign-In + Responsive UI (Sidebar / Bottom Navbar)</li>
 </ul>
 
-<p align="center"><strong>Tech Stack</strong></p>
+<p><strong>Tech Stack</strong></p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
@@ -326,7 +326,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-<p align="center">
+<p>
   <strong>Status:</strong> 🟡 In Progress
 </p>
 
