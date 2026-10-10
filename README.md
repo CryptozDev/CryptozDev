@@ -287,37 +287,46 @@
 
   <td width="50%" valign="top">
 
-<h3>⚡ Smart Energy Assistant Chatbot</h3>
+<h3 align="center">⚡ Smart Energy Assistant</h3>
 
-<p>
-  <strong>ML-Powered Solar & Energy Advisor</strong>
+<p align="center">
+  <strong>ML-Powered Home Energy & Solar Advisor</strong>
 </p>
 
-<p>
-  Chatbot AI ที่ตอบคำถามเรื่องบ้านของผู้ใช้ 3 ข้อ — พฤติกรรมการใช้ไฟ,
-  ควรติดโซลาร์กี่ kW คืนทุนกี่ปี และราคาโซลาร์ในอนาคต
-  คำนวณจากข้อมูลจริงของประเทศไทย (NASA POWER, DEDE, กกพ./ERC, กฟน./กฟภ.)
+<p align="center">
+  แชทบอท AI ตอบคำถามเรื่องบ้านของคุณ 3 เรื่อง — พฤติกรรมการใช้ไฟ, ควรติดโซลาร์กี่ kW คืนทุนกี่ปี,
+  และราคาโซลาร์ในอนาคต — คำนวณจาก<strong>ข้อมูลจริงของบ้านคุณ</strong> (หน่วยไฟจากบิล กฟน./กฟภ.)
+  ร่วมกับ dataset จริงของประเทศไทย (NASA POWER, DEDE, กกพ./ERC)
 </p>
 
-<p><strong>Highlights</strong></p>
+<p align="center"><strong>Highlights</strong></p>
 
 <ul>
-  <li>🤖 Chatbot AI + Intent Classification</li>
-  <li>☀️ Solar ROI Calculator (แดดจริงรายชั่วโมง + ราคาไฟจริง)</li>
-  <li>🧠 ML Models (LightGBM → ONNX)</li>
-  <li>📊 Interactive Dashboard + Anomaly Detection</li>
+  <li>🤖 Chatbot AI + Intent Classification (ONNX — ตอบจากข้อมูลบ้านจริง ไม่เดาตอบ)</li>
+  <li>☀️ Solar ROI Engine — solar.onnx × แดดจริงรายชั่วโมง (NASA POWER) × ค่าไฟจริง (ขั้นบันได + Ft) → cashflow รายเดือน</li>
+  <li>🗺️ Solar Zone Clustering — K-Means จัดกลุ่ม 7,416 ตำบล จากแดดจริง DEDE 12 เดือน</li>
+  <li>📊 Interactive Dashboard — บิลรายปี, สถานะการใช้ไฟ, Anomaly Detection</li>
+  <li>📄 รายงานสถานการณ์ — snapshot ผลลัพธ์ + Export CSV / Print PDF</li>
+  <li>🔐 Google Sign-In + Responsive UI (Sidebar / Bottom Navbar)</li>
 </ul>
 
-<p><strong>Tech Stack</strong></p>
+<p align="center"><strong>Tech Stack</strong></p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-9DD63C?style=flat-square&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-<p>
+<p align="center">
   <strong>Status:</strong> 🟡 In Progress
 </p>
 
