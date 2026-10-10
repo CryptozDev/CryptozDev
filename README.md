@@ -307,7 +307,6 @@
   <li>🗺️ Solar Zone Clustering — K-Means จัดกลุ่ม 7,416 ตำบล จากแดดจริง DEDE 12 เดือน</li>
   <li>📊 Interactive Dashboard — บิลรายปี, สถานะการใช้ไฟ, Anomaly Detection</li>
   <li>📄 รายงานสถานการณ์ — snapshot ผลลัพธ์ + Export CSV / Print PDF</li>
-  <li>🔐 Google Sign-In + Responsive UI (Sidebar / Bottom Navbar)</li>
 </ul>
 
 <p><strong>Tech Stack</strong></p>
