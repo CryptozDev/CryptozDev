@@ -96,39 +96,6 @@
 
 ---
 
-<h2 align="center">✦ GitHub Statistics ✦</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=CryptozDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptozDev&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=CryptozDev&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=CryptozDev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"
-    alt="GitHub Profile Trophies"
-    width="100%"
-  />
-</p>
-
----
-
 <h2 align="center">✦ Featured Projects ✦</h2>
 
 <p align="center">
