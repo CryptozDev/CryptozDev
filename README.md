@@ -1,5 +1,11 @@
 <div align="center">
 
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient:0:00D9FF,100:7B2FF7&text=&section=header"
+    alt="Header Wave"
+    width="100%"
+  />
+
   <h1>Hi there, I'm Jarukit Lobthaisong 👋</h1>
 
   <p>
@@ -24,11 +30,13 @@
 
 </div>
 
+---
+
 <h2 align="center">✦ About Me ✦</h2>
 
 <div align="center">
   <img
-    src="https://media.licdn.com/dms/image/v2/D4E16AQHVEYchtZxuEA/profile-displaybackgroundimage-shrink_350_1400/B4EaBFBVaiIoAU-/0/1787864373218?e=1790812800&v=beta&t=ExwVTZ2vHoqgWHvPBcGg_OsPBiYAPcQKOdz7OAgiBeM"
+    src="https://img.jarukit.dev/i/qFKDYvgj.png"
     alt="Jarukit Banner"
     width="100%"
   />
@@ -47,38 +55,77 @@
 
 <h2 align="center">✦ Tech Stack & Tools ✦</h2>
 
-### 🎨 Frontend & Design
+<h3 align="center">🎨 Frontend & Design</h3>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square\&logo=mui\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-### ⚙️ Backend & Database
+<h3 align="center">⚙️ Backend & Database</h3>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
-### 🤖 AI, Cloud & Infrastructure
+<h3 align="center">🤖 AI, Cloud & Infrastructure</h3>
 
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square\&logo=openai\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square\&logo=n8n\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+<h2 align="center">✦ GitHub Statistics ✦</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CryptozDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptozDev&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=CryptozDev&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=CryptozDev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"
+    alt="GitHub Profile Trophies"
+    width="100%"
+  />
+</p>
 
 ---
 
@@ -371,3 +418,13 @@
   🌐 Website: <a href="https://jarukit.dev/">https://jarukit.dev</a> &nbsp;·&nbsp;
   💼 LinkedIn: <a href="https://www.linkedin.com/in/jarukit-lobthaisong-015911431">Jarukit Lobthaisong</a>
 </p>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient:0:00D9FF,100:7B2FF7&text=&section=footer"
+    alt="Footer Wave"
+    width="100%"
+  />
+</div>
